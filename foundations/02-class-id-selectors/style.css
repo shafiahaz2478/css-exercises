@@ -1,7 +1,6 @@
 .the-class {
     background-color: rgb(216, 127, 148);
     font-family:Verdana, "DejaVu Sans", sans-serif;
-    fallback: sans-serif;
 
 }
 .cool-one{
@@ -14,6 +13,5 @@
 }
 #No4{
     background-color: rgb(144, 238, 144);
-    font-size: 24px;
     font-weight: bold;
 }
